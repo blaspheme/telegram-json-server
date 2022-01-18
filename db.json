@@ -1,0 +1,254 @@
+{
+    "message": [
+        {
+            "_id": {
+                "$oid": "61984e29cb756c82f4335b5e"
+            },
+            "@type": "updateNewMessage",
+            "message": {
+                "@type": "message",
+                "id": {
+                    "$numberLong": "391093682175"
+                },
+                "sender": {
+                    "@type": "messageSenderUser",
+                    "user_id": 577200078
+                },
+                "chat_id": {
+                    "$numberLong": "-1001388935052"
+                },
+                "is_outgoing": false,
+                "is_pinned": false,
+                "can_be_edited": false,
+                "can_be_forwarded": true,
+                "can_be_deleted_only_for_self": false,
+                "can_be_deleted_for_all_users": false,
+                "can_get_statistics": false,
+                "can_get_message_thread": true,
+                "is_channel_post": false,
+                "contains_unread_mention": false,
+                "date": 1637371433,
+                "edit_date": 0,
+                "reply_in_chat_id": {
+                    "$numberLong": "-1001388935052"
+                },
+                "reply_to_message_id": {
+                    "$numberLong": "391092633600"
+                },
+                "message_thread_id": {
+                    "$numberLong": "391092633600"
+                },
+                "ttl": 0,
+                "ttl_expires_in": 0,
+                "via_bot_user_id": 0,
+                "author_signature": "",
+                "media_album_id": "0",
+                "restriction_reason": "",
+                "content": {
+                    "@type": "messageText",
+                    "text": {
+                        "@type": "formattedText",
+                        "text": "ha",
+                        "entities": []
+                    }
+                }
+            }
+        },
+        {
+            "_id": {
+                "$oid": "61984e29cb756c82f4335b5d"
+            },
+            "@type": "updateNewMessage",
+            "message": {
+                "@type": "message",
+                "id": {
+                    "$numberLong": "391093682176"
+                },
+                "sender": {
+                    "@type": "messageSenderUser",
+                    "user_id": 577200076
+                },
+                "chat_id": {
+                    "$numberLong": "-1001388935052"
+                },
+                "is_outgoing": false,
+                "is_pinned": false,
+                "can_be_edited": false,
+                "can_be_forwarded": true,
+                "can_be_deleted_only_for_self": false,
+                "can_be_deleted_for_all_users": false,
+                "can_get_statistics": false,
+                "can_get_message_thread": true,
+                "is_channel_post": false,
+                "contains_unread_mention": false,
+                "date": 1637371433,
+                "edit_date": 0,
+                "reply_in_chat_id": {
+                    "$numberLong": "-1001388935052"
+                },
+                "reply_to_message_id": {
+                    "$numberLong": "391092633600"
+                },
+                "message_thread_id": {
+                    "$numberLong": "391092633600"
+                },
+                "ttl": 0,
+                "ttl_expires_in": 0,
+                "via_bot_user_id": 0,
+                "author_signature": "",
+                "media_album_id": "0",
+                "restriction_reason": "",
+                "content": {
+                    "@type": "messageText",
+                    "text": {
+                        "@type": "formattedText",
+                        "text": "ha1",
+                        "entities": []
+                    }
+                }
+            }
+        },
+        {
+            "_id": {
+                "$oid": "61984e29cb756c82f4335b5f"
+            },
+            "@type": "updateNewMessage",
+            "message": {
+                "@type": "message",
+                "id": {
+                    "$numberLong": "391093682177"
+                },
+                "sender": {
+                    "@type": "messageSenderUser",
+                    "user_id": 577200075
+                },
+                "chat_id": {
+                    "$numberLong": "-1001388935052"
+                },
+                "is_outgoing": false,
+                "is_pinned": false,
+                "can_be_edited": false,
+                "can_be_forwarded": true,
+                "can_be_deleted_only_for_self": false,
+                "can_be_deleted_for_all_users": false,
+                "can_get_statistics": false,
+                "can_get_message_thread": true,
+                "is_channel_post": false,
+                "contains_unread_mention": false,
+                "date": 1637371433,
+                "edit_date": 0,
+                "reply_in_chat_id": {
+                    "$numberLong": "-1001388935052"
+                },
+                "reply_to_message_id": {
+                    "$numberLong": "391092633600"
+                },
+                "message_thread_id": {
+                    "$numberLong": "391092633600"
+                },
+                "ttl": 0,
+                "ttl_expires_in": 0,
+                "via_bot_user_id": 0,
+                "author_signature": "",
+                "media_album_id": "0",
+                "restriction_reason": "",
+                "content": {
+                    "@type": "messageText",
+                    "text": {
+                        "@type": "formattedText",
+                        "text": "ha2",
+                        "entities": []
+                    }
+                }
+            }
+        },
+        {
+            "_id": {
+                "$oid": "61984e29cb756c82f4335b5g"
+            },
+            "@type": "updateNewMessage",
+            "message": {
+                "@type": "message",
+                "id": {
+                    "$numberLong": "391093682178"
+                },
+                "sender": {
+                    "@type": "messageSenderUser",
+                    "user_id": 577200071
+                },
+                "chat_id": {
+                    "$numberLong": "-1001388935052"
+                },
+                "is_outgoing": false,
+                "is_pinned": false,
+                "can_be_edited": false,
+                "can_be_forwarded": true,
+                "can_be_deleted_only_for_self": false,
+                "can_be_deleted_for_all_users": false,
+                "can_get_statistics": false,
+                "can_get_message_thread": true,
+                "is_channel_post": false,
+                "contains_unread_mention": false,
+                "date": 1637371433,
+                "edit_date": 0,
+                "reply_in_chat_id": {
+                    "$numberLong": "-1001388935052"
+                },
+                "reply_to_message_id": {
+                    "$numberLong": "391092633600"
+                },
+                "message_thread_id": {
+                    "$numberLong": "391092633600"
+                },
+                "ttl": 0,
+                "ttl_expires_in": 0,
+                "via_bot_user_id": 0,
+                "author_signature": "",
+                "media_album_id": "0",
+                "restriction_reason": "",
+                "content": {
+                    "@type": "messageText",
+                    "text": {
+                        "@type": "formattedText",
+                        "text": "ha3",
+                        "entities": []
+                    }
+                }
+            }
+        }
+    ],
+    "chat_user": [
+        {
+            "id": 577200078,
+            "nickname": "聊天账户1",
+            "telephone": 12121212
+        },
+        {
+            "id": 577200076,
+            "nickname": "聊天账户2",
+            "telephone": 1212124
+        },
+        {
+            "id": 577200075,
+            "nickname": "聊天账户3",
+            "telephone": 1212124
+        },
+        {
+            "id": 577200071,
+            "nickname": "聊天账户4",
+            "telephone": 1212124
+        }
+    ],
+    "telegram_account": [
+        {
+            "id": 577200078,
+            "nickname": "Telegram账户1",
+            "telephone": 1212124
+        },
+        {
+            "id": 577200076,
+            "nickname": "Telegram账户2",
+            "telephone": 1212124
+        }
+    ]
+}
