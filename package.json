@@ -1,0 +1,27 @@
+{
+  "name": "telegram-json-server",
+  "version": "1.0.0",
+  "description": "mock server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blaspheme/telegram-json-server.git"
+  },
+  "keywords": [
+    "json-server",
+    "mock",
+    "telegram"
+  ],
+  "author": "Erudite",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blaspheme/telegram-json-server/issues"
+  },
+  "homepage": "https://github.com/blaspheme/telegram-json-server#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
